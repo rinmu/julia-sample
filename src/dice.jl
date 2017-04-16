@@ -1,7 +1,7 @@
 """
 dice() -> Integer
 
-Returns a random integer from 1 to 6.
+Returns a random integer from `1` to `6`.
 """
 function dice()
   rand(1:6)
